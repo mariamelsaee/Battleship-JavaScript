@@ -41,4 +41,3 @@ Features to implement next:
 - Randomize placement of the ships at the start of each game
 - Make better graphics, maybe add sound effects?
 - Make a 2-player version of the game!
-!-[keep calm and listen to the sea] (https://www.bing.com/images/search?view=detailV2&ccid=j5P7kgb0&id=920B2DDA026A72045D419E203BB0D0BA5C794483&thid=OIP.j5P7kgb0T8Jx6zHchCoVwwHaE8&mediaurl=http%3a%2f%2fnews.xinhuanet.com%2fscience%2f2015-12%2f17%2f134822306_14503408972511n.jpg&exph=400&expw=600&q=photo+for+sea&simid=607999783317799169&selectedIndex=0)
